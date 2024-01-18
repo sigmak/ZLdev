@@ -14,4 +14,11 @@ object FMainForm: TFMainForm
   OnCreate = FormCreate
   PixelsPerInch = 96
   TextHeight = 13
+  object PageControl1: TPageControl
+    Left = 8
+    Top = 8
+    Width = 289
+    Height = 193
+    TabOrder = 0
+  end
 end
