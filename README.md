@@ -1,18 +1,18 @@
-1차 목료
+1차 목표
 
-handel IDE 툴의 디자인 기능 정도 까지만
-
-컴파일러 영역까지는 고려 안함.
+Small-Visual-Basic 소스코드 분석
 
 
-2차 목표
+2차 목료
 
-PascalABC.net  IDE 툴
+basic, fortrna, pascal, C#, C/C++ 등의 언어에
+
+UI 공통 적용 가능성 연구
 
 
-3차 목료
+3차 목표
 
-sharpdevlop IDE 툴
+sharpdevlop IDE 나 PascalABC.net  IDE 툴 처럼 4GL 개발도구 만들기 (?)
 
 
 최종 목표
