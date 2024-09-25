@@ -5,7 +5,7 @@ Small-Visual-Basic 소스코드 분석
 
 2차 목료
 
-basic, fortrna, pascal, C#, C/C++ 등의 언어에
+basic, fortran, pascal, C#, C/C++ 등의 언어에
 
 UI 공통 적용 가능성 연구
 
